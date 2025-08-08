@@ -1,4 +1,4 @@
-# APISales
+# Sales-API
 
 API desenvolvida para gerenciar as vendas de um estabelecimento contendo produtos, categorias, usuários, pedidos, carrinhos de compras e geração de relatórios para o dono do estabeleciemnto.
 
